@@ -1,7 +1,7 @@
 # gptk
 
-Un simple client GTK pour l'API OpenAI (GPT)
-gptk est un client GTK pour l'API OpenAI (GPT) écrit en Python.
+- Un simple client GTK pour l'API OpenAI (GPT)
+- gptk est un client GTK pour l'API OpenAI (GPT) écrit en Python.
 
 # fonctionnalités :
 - Changement de la taille de la police avec Ctrl + molette de la souris
